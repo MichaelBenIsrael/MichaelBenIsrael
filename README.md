@@ -16,7 +16,7 @@ SQL servers, Python data science libraries, C in Linux environment & OPP princip
 
 # MY Projects:
 
-1.  Business management program in C
+1.  Business management software in C
 
 2.  Jave application for food ordering, client & server side including a SQL db connection
 
