@@ -3,7 +3,7 @@
 
 ## ⚡ About Me
 I'm a 3rd year Software Engineering Student and\
-currently works as a Data Scientist at KLA,\
+currently working as a Data Scientist at KLA,\
 Before that I served as a team leader for the Electrical department at IDF.\
 My dream is to work in a company where I could learn, contribute and be a part of somthing Great!
 
