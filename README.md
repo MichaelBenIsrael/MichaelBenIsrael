@@ -11,7 +11,7 @@ My dream is to work in a company where I could learn, contribute and be a part o
 
 ## 🛠 Skills
 C, Java, Python, C++, SQL,\
-SQL servers, Python data science libraries, C in Linux environment, OPP principles
+SQL servers, Python data science libraries, C in Linux environment & OPP principles
 
 
 # MY Projects:
