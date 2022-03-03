@@ -10,7 +10,7 @@ My dream is to work in a company where I could learn, contribute and be a part o
 ![Logo](https://media.istockphoto.com/vectors/dream-big-silhouette-of-man-with-raised-arms-looking-at-the-open-to-vector-id1252341000?k=20&m=1252341000&s=612x612&w=0&h=F-pFF46SoeCsUVO0HMzhH6W6tBOVRH_1L2x87bgvDiI=)
 
 ## 🛠 Skills
-C, Java, Python, C++, SQL,
+C, Java, Python, C++, SQL,\
 SQL servers, Python data science libraries, C in Linux environment, OPP principles
 
 
