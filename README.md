@@ -18,7 +18,7 @@ SQL servers, Python data science libraries, C in Linux environment & OPP princip
 
 1.  Business management software in C
 
-2.  Jave application for food ordering, client & server side including a SQL db connection
+2.  Jave application for food ordering, client & server side, including a connection to an SQL db 
 
 3.  Sports statistics web scrapper in Python
 
