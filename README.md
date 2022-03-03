@@ -28,4 +28,4 @@ SQL servers, Python data science libraries, C in Linux environment & OPP princip
 
 6.  (Still in an early stage) WhatsApp bot that will make the elderly's life much easier
 ## 🔗 Let's Connect
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/michael-ben-israel)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](HTTPS://www.linkedin.com/in/michael-ben-israel)
